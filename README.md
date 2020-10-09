@@ -1,4 +1,4 @@
-# Chech ssh connections
+# Check ssh connections
 Simple script to verify your ssh conection work.
 
 ## Usage
