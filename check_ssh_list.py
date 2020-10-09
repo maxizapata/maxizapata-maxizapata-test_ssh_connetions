@@ -1,8 +1,11 @@
+#!/usr/bin/python3
+
 # This script allow to test a list of ssh conections
 # You must pass two arguments:
 # 1 - The file that contains the list of host
 # 2 - The user to connect in the remote host
 # 3 (Optinal) - The private ssh key
+
 
 from sys import argv, stderr
 from os import environ as env
