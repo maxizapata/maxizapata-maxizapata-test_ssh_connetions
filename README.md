@@ -20,6 +20,6 @@ Example of execution:
 
 Only works with python 3.6 or later
 
-## Autor
+## Author
 Maximiliano Zapata
 maxzm7@gmail.com
